@@ -3,13 +3,12 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 El componente formativo de Estrategias en <em>marketing</em> online, abarca aspectos relacionados con la planificación y ejecución de campañas de <em>marketing</em> en línea, la elaboración de planes de <em>marketing</em> y la aplicación de enfoques Inbound para atraer y retener clientes. Estas áreas de estudio son fundamentales para promover productos y servicios de manera efectiva en el entorno digital y construir relaciones sólidas con el público objetivo.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis del componente formativo Estrategias en Marketing Online, se muestran aspectos de planificación y ejecución de campañas de marketing en línea, la elaboración de planes de marketing y la aplicación de enfoques Inbound.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
