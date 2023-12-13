@@ -5,12 +5,12 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 La campaña de marketing online
+      h1 La campaña de <em>marketing online</em>
       
     .row.mb-4
       .col-md-8
-        p Para presentar la campaña de marketing, se reconocen tres elementos importantes: el Coste de Adquisición de un Cliente (CAC), el valor de vida de un cliente (CLV) y la tasa de conversión. Cada uno de estos elementos desempeña un papel crucial en el marketing digital y contribuye a mejorar la calidad del servicio a los clientes en cada una de las empresas.
-        p El coste de adquisición de un cliente (CAC), representado por sus siglas, es un indicador que mide la cantidad de recursos invertidos por la organización para incorporar un cliente nuevo a su base de clientes. Este valor se calcula tomando en cuenta la inversión media realizada por la empresa en un período de tiempo determinado para adquirir un nuevo cliente. Reducir el CAC es esencial para optimizar la eficiencia de la campaña de marketing, ya que significa que la empresa está gastando menos para adquirir nuevos clientes. Esto puede lograrse a través de estrategias más efectivas, como publicidad segmentada, marketing de contenidos de alta calidad o campañas de referencia. Este indicador permite calcular la cantidad media apostada por la empresa para lograr esta adquisición en un factor de tiempo determinado, como se muestra a continuación:
+        p Para presentar la campaña de <em>marketing,</em> se reconocen tres elementos importantes: el Coste de Adquisición de un Cliente (CAC), el valor de vida de un cliente (CLV) y la tasa de conversión. Cada uno de estos elementos desempeña un papel crucial en el <em>marketing</em> digital y contribuye a mejorar la calidad del servicio a los clientes en cada una de las empresas.
+        p El coste de adquisición de un cliente (CAC), representado por sus siglas, es un indicador que mide la cantidad de recursos invertidos por la organización para incorporar un cliente nuevo a su base de clientes. Este valor se calcula tomando en cuenta la inversión media realizada por la empresa en un período de tiempo determinado para adquirir un nuevo cliente. Reducir el CAC es esencial para optimizar la eficiencia de la campaña de <em>marketing,</em> ya que significa que la empresa está gastando menos para adquirir nuevos clientes. Esto puede lograrse a través de estrategias más efectivas, como publicidad segmentada, marketing de contenidos de alta calidad o campañas de referencia. Este indicador permite calcular la cantidad media apostada por la empresa para lograr esta adquisición en un factor de tiempo determinado, como se muestra a continuación:
 
       .col-md-4
         figure
@@ -36,7 +36,7 @@
           table
             thead
               tr
-                th(colspan="2") Actividad de marketing
+                th(colspan="2") Actividad de <em>marketing</em>
                 th Valor unitario
                 th Cantidad
                 th Valor Total
@@ -70,7 +70,7 @@
       .col-10(data-aos="fade-down-right")
         .cajon.color-secundario.p-4.mb-5(style="background-color:#FFFBE5")
           h3 ¿Cómo conocer el alcance de este indicador?
-          p Teniendo en cuenta el ejemplo de esta empresa, se debe conocer cuánto está generando este nuevo cliente en utilidades para el negocio, si tiene un promedio de compra de los productos que generan utilidades por $350.000, se tiene un indicador que permite concluir que la estrategia de marketing y ventas es adecuada; mientras que si estos clientes generan utilidades de $150.000, pero su costo de adquisición es de $260.000, se deben tomar acciones para su ajuste, pues la organización se encuentra invirtiendo mucho más de lo que recibe para sus clientes nuevos.
+          p Teniendo en cuenta el ejemplo de esta empresa, se debe conocer cuánto está generando este nuevo cliente en utilidades para el negocio, si tiene un promedio de compra de los productos que generan utilidades por $350.000, se tiene un indicador que permite concluir que la estrategia de <em>marketing</em> y ventas es adecuada; mientras que si estos clientes generan utilidades de $150.000, pero su costo de adquisición es de $260.000, se deben tomar acciones para su ajuste, pues la organización se encuentra invirtiendo mucho más de lo que recibe para sus clientes nuevos.
 
         .row.mb-5
           .col-md-5.mb-3
@@ -80,7 +80,7 @@
             .row
               .col-lg-12
                 .cajon-b.color-acento-contenido.p-3.mb-5
-                  p.mb-3 Estas acciones de mejora se pueden direccionar bajo dos perspectivas, la optimización de las actividades y la incorporación de nuevos clientes. En la actualidad, la toma de decisiones tiene la gran ventaja de contar con unas métricas que le permiten optar por estrategias fundamentadas en los datos que arrojan, para el marketing digital aún más, pues todo es medible, desde la cantidad de personas que accedieron a un sitio web, hasta el momento exacto en el cual un usuario paró de visualizar un vídeo en YouTube.
+                  p.mb-3 Estas acciones de mejora se pueden direccionar bajo dos perspectivas, la optimización de las actividades y la incorporación de nuevos clientes. En la actualidad, la toma de decisiones tiene la gran ventaja de contar con unas métricas que le permiten optar por estrategias fundamentadas en los datos que arrojan, para el <em>marketing</em> digital aún más, pues todo es medible, desde la cantidad de personas que accedieron a un sitio web, hasta el momento exacto en el cual un usuario paró de visualizar un vídeo en YouTube.
                   p De esta manera, y siguiendo el ejemplo aplicado anteriormente, se deben encaminar acciones para buscar la eficiencia de las actividades, ya sea reduciendo el equipo de trabajo, o evaluando la efectividad de alguna de las redes sociales, prescindiendo de una en un periodo de tiempo, aplicar nuevamente la fórmula con la cantidad de clientes nuevos en un nuevo periodo de tiempo, de esta manera se pueden optimizar cada una de las variables y generar la mejora continua en la organización.
                   p Desde otra perspectiva, la de incorporación de nuevos clientes, que pueden encaminarse a generar un esfuerzo adicional para buscar la eficiencia de <em>marketing</em> y ventas, para lo cual se puede implementar estrategias como <em>Inbound marketing.</em>
 
@@ -95,7 +95,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="fade-down-right")
         .cajon.color-secundario.p-4(style="background-color:#FFFBE5")
-          p Según el portal especializado HubSpot Research en su informe sobre el estado de las tendencias de marketing 2022, anuncia que un 55 % de las empresas en crecimiento valoran las inversiones dirigidas al cliente con una gran importancia, pero tan solo el 29 % de los negocios con decrecimiento piensa que estas inversiones son muy relevantes, lo que concluye que las organizaciones que llegan a sus clientes con éxito logran mayores beneficios debido a su satisfacción.
+          p Según el portal especializado HubSpot Research en su informe sobre el estado de las tendencias de <em>marketing</em> 2022, anuncia que un 55 % de las empresas en crecimiento valoran las inversiones dirigidas al cliente con una gran importancia, pero tan solo el 29 % de los negocios con decrecimiento piensa que estas inversiones son muy relevantes, lo que concluye que las organizaciones que llegan a sus clientes con éxito logran mayores beneficios debido a su satisfacción.
 
     .row.align-items-center.mb-4
       .col-auto.pe-0(style="z-index:2")
@@ -211,7 +211,7 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="Objetivo principal")
         .col-md-6.mb-4.mb-md-0
-          p El objetivo principal del CR, es evaluar el nivel de retorno de las diferentes inversiones de la organización en factores como tiempo o financiero. Es usado para medir los resultados en el marketing digital, representa el grado de efectividad que ha obtenido la empresa y contrasta diferentes periodos de tiempo; identificando previamente qué estrategia se desea evaluar en un período de tiempo. 
+          p El objetivo principal del CR, es evaluar el nivel de retorno de las diferentes inversiones de la organización en factores como tiempo o financiero. Es usado para medir los resultados en el <em>marketing</em> digital, representa el grado de efectividad que ha obtenido la empresa y contrasta diferentes periodos de tiempo; identificando previamente qué estrategia se desea evaluar en un período de tiempo. 
 
         .col-md-6
           figure
@@ -346,7 +346,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10(data-aos="fade-down-right")
         .cajon.color-secundario.p-4(style="background-color:#FFFBE5")
-          p De hecho, la Tasa de Conversión se consolida como una herramienta indispensable en el campo del marketing digital. Su versatilidad y capacidad para proporcionar resultados permiten mantener un estado óptimo en relación a los diversos objetivos. Esto implica identificar oportunidades para la empresa y contribuir a un crecimiento sostenido a mediano y largo plazo.
+          p De hecho, la Tasa de Conversión se consolida como una herramienta indispensable en el campo del <em>marketing</em> digital. Su versatilidad y capacidad para proporcionar resultados permiten mantener un estado óptimo en relación a los diversos objetivos. Esto implica identificar oportunidades para la empresa y contribuir a un crecimiento sostenido a mediano y largo plazo.
 
 
 

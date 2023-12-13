@@ -5,11 +5,11 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Plan de marketing online      
+      h1 Plan de <em>marketing online</em>      
 
     .row.mb-4
       .col-md-8
-        p El plan de marketing online es una guía que establece la dirección a seguir en el desarrollo del marketing digital de una organización. En este documento se recopilan todas las estrategias que el equipo de trabajo implementará, siempre enfocadas en alcanzar los objetivos previamente establecidos. El plan incluye la planificación de actividades, técnicas para su ejecución, investigación aplicada, presupuesto, indicadores, comunicaciones y otros elementos que permiten a la empresa contar con una hoja de ruta para su crecimiento continuo.
+        p El plan de <em>marketing online</em> es una guía que establece la dirección a seguir en el desarrollo del <em>marketing</em> digital de una organización. En este documento se recopilan todas las estrategias que el equipo de trabajo implementará, siempre enfocadas en alcanzar los objetivos previamente establecidos. El plan incluye la planificación de actividades, técnicas para su ejecución, investigación aplicada, presupuesto, indicadores, comunicaciones y otros elementos que permiten a la empresa contar con una hoja de ruta para su crecimiento continuo.
         .row
           .col-lg-12
             .cajon.color-secundario.p-4.mb-4(style="background-color:#FFFBE5")
@@ -55,8 +55,8 @@
         figure
           img(src='@/assets/curso/temas/tema2/img-3.png', alt='')
       .col-md-8
-        p La empresa debe tener una comprensión precisa de su marca, sus productos y lo que representan, así como las motivaciones detrás de su oferta y su razón de ser como organización. Esto es fundamental para articular la relación entre lo que busca el cliente y lo que se le ofrece. En esta etapa, la empresa debe construir su identidad de marca, definiendo aspectos como el logotipo, tipografía, colores, tamaño y otros elementos que reflejen su identidad de manera coherente con lo que genera en sus clientes. La aplicación de técnicas de branding es esencial en este proceso.
-        p La combinación de estos dos aspectos, tanto el interno como el externo, permite a la empresa realizar un análisis del entorno, que se plasma en el plan de marketing. Este análisis abarca el sector en el que operan los productos y servicios de la empresa, así como factores demográficos, económicos, tecnológicos, políticos y socioculturales, además de la competencia en el mercado. Esta información es esencial para el análisis y el diseño de las estrategias que se incluirán en la hoja de ruta.
+        p La empresa debe tener una comprensión precisa de su marca, sus productos y lo que representan, así como las motivaciones detrás de su oferta y su razón de ser como organización. Esto es fundamental para articular la relación entre lo que busca el cliente y lo que se le ofrece. En esta etapa, la empresa debe construir su identidad de marca, definiendo aspectos como el logotipo, tipografía, colores, tamaño y otros elementos que reflejen su identidad de manera coherente con lo que genera en sus clientes. La aplicación de técnicas de <em>branding</em> es esencial en este proceso.
+        p La combinación de estos dos aspectos, tanto el interno como el externo, permite a la empresa realizar un análisis del entorno, que se plasma en el plan de <em>marketing.</em> Este análisis abarca el sector en el que operan los productos y servicios de la empresa, así como factores demográficos, económicos, tecnológicos, políticos y socioculturales, además de la competencia en el mercado. Esta información es esencial para el análisis y el diseño de las estrategias que se incluirán en la hoja de ruta.
         p Existen numerosas herramientas disponibles para llevar a cabo estos diagnósticos, tanto internos como externos, como se detalla a continuación:
 
     .row.justify-content-center.align-items-center.mb-4
@@ -73,15 +73,15 @@
         figure
           img(src='@/assets/curso/temas/tema2/img-4-2.svg', alt='En la figura 2 se muestran las herramientas de diagnóstico externo e interno.') 
 
-    p.mb-5 La consolidación de esta información da paso al siguiente aspecto del plan, su diseño, que inicia con la definición de los objetivos, para esto se debe tener claro los objetivos de la empresa, que permitirán definir los objetivos del plan de marketing. 
+    p.mb-5 La consolidación de esta información da paso al siguiente aspecto del plan, su diseño, que inicia con la definición de los objetivos, para esto se debe tener claro los objetivos de la empresa, que permitirán definir los objetivos del plan de <em>marketing.</em> 
 
     Separador 
     
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2 Definición de objetivos
 
-    p Los objetivos de la organización se caracterizan por su naturaleza económica, su capacidad de ser medibles a corto plazo y su vínculo directo con la viabilidad del negocio, siempre y cuando se cumplan. En complemento, los objetivos del plan de marketing son los que contribuyen a alcanzar estos objetivos económicos, describiendo de manera general los resultados que se buscan mediante la implementación de estrategias y tácticas.
-    p.mb-5 Es esencial trabajar con conceptos claros al establecer los objetivos del plan de marketing. Una de las reglas fundamentales para su formulación es seguir el enfoque SMART, que define las características que cada objetivo debe poseer: ser Específico, Medible, Alcanzable, Realista y estar acotado temporalmente.
+    p Los objetivos de la organización se caracterizan por su naturaleza económica, su capacidad de ser medibles a corto plazo y su vínculo directo con la viabilidad del negocio, siempre y cuando se cumplan. En complemento, los objetivos del plan de <em>marketing</em> son los que contribuyen a alcanzar estos objetivos económicos, describiendo de manera general los resultados que se buscan mediante la implementación de estrategias y tácticas.
+    p.mb-5 Es esencial trabajar con conceptos claros al establecer los objetivos del plan de <em>marketing.</em> Una de las reglas fundamentales para su formulación es seguir el enfoque SMART, que define las características que cada objetivo debe poseer: ser Específico, Medible, Alcanzable, Realista y estar acotado temporalmente.
 
     .row.justify-content-center.mt-5
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
@@ -118,9 +118,9 @@
             .col-8
               img(src='@/assets/curso/temas/tema2/img-9.png' alt='AvatarTop')
           p <strong>(T) Temporalmente acotados</strong> 
-          p Que se logren en el marco de un periodo de tiempo, se debe definir en cuánto tiempo se pretenden alcanzar, con el fin de generar un control de inicio y fin del plan de marketing.
+          p Que se logren en el marco de un periodo de tiempo, se debe definir en cuánto tiempo se pretenden alcanzar, con el fin de generar un control de inicio y fin del plan de <em>marketing.</em>
 
-    p.mb-5 Una vez que la empresa cuenta con objetivos bien estructurados, adquiere una dirección clara para el desarrollo de estrategias y tácticas. Estas estrategias y tácticas describen las actividades a implementar en el corto, mediano y largo plazo con el propósito de alcanzar cada uno de esos objetivos. Esto implica la definición de aspectos como el cronograma de trabajo, los recursos necesarios, los métodos a seguir, funciones específicas y otros detalles relevantes. Estos planes de acción brindan un enfoque concreto para alcanzar los resultados deseados y son esenciales para el éxito en la ejecución de la estrategia de marketing.
+    p.mb-5 Una vez que la empresa cuenta con objetivos bien estructurados, adquiere una dirección clara para el desarrollo de estrategias y tácticas. Estas estrategias y tácticas describen las actividades a implementar en el corto, mediano y largo plazo con el propósito de alcanzar cada uno de esos objetivos. Esto implica la definición de aspectos como el cronograma de trabajo, los recursos necesarios, los métodos a seguir, funciones específicas y otros detalles relevantes. Estos planes de acción brindan un enfoque concreto para alcanzar los resultados deseados y son esenciales para el éxito en la ejecución de la estrategia de <em>marketing.</em>
 
     Separador 
 
@@ -148,7 +148,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10(data-aos="fade-down-right")
         .cajon.color-secundario.p-4(style="background-color:#FFFBE5")
-          p La consideración de canales de venta y generación de tráfico es esencial en esta etapa del plan de marketing. Conocer a fondo al público objetivo, su recorrido, la propuesta de valor y el precio, permite identificar los canales óptimos para establecer la venta, así como las formas de pago que se alineen con los aspectos previamente desarrollados en los pasos anteriores del plan. Herramientas como Google Trends, Ubersuggest y Answer The Public resultan muy útiles para la generación de contenido y la elaboración de estrategias encaminadas a lograr los objetivos establecidos, ya que proporcionan datos valiosos sobre tendencias y temas de interés que pueden guiar la estrategia de marketing de contenidos.
+          p La consideración de canales de venta y generación de tráfico es esencial en esta etapa del plan de <em>marketing.</em> Conocer a fondo al público objetivo, su recorrido, la propuesta de valor y el precio, permite identificar los canales óptimos para establecer la venta, así como las formas de pago que se alineen con los aspectos previamente desarrollados en los pasos anteriores del plan. Herramientas como Google Trends, Ubersuggest y Answer The Public resultan muy útiles para la generación de contenido y la elaboración de estrategias encaminadas a lograr los objetivos establecidos, ya que proporcionan datos valiosos sobre tendencias y temas de interés que pueden guiar la estrategia de <em>marketing</em> de contenidos.
 
     .row.mb-5
       .col-md-4.mb-3
@@ -156,7 +156,7 @@
           img(src='@/assets/curso/temas/tema2/img-11.png', alt='')
       .col-md-8
         p En conjunto con las estrategias y tácticas, es crucial contar con herramientas que faciliten el seguimiento de su implementación y la medición de resultados. Para lograrlo, es necesario establecer mecanismos para la evaluación, la comparación de resultados y su respectiva interpretación.
-        p La estrategia de contenidos desempeña un papel fundamental en la incorporación del plan de marketing. A través de ella, la empresa crea, administra y distribuye contenido original con el objetivo de atraer a los clientes y posicionarse como un referente en su segmento de mercado. Esta estrategia se integra con una política de comunicación que detalla las actividades específicas para cada canal, tomando en cuenta la información recopilada en el análisis del entorno. Esto permite definir el tipo de contenido que debe ser creado y compartido para satisfacer las necesidades y preferencias del público objetivo, para ello se debe definir:
+        p La estrategia de contenidos desempeña un papel fundamental en la incorporación del plan de <em>marketing.</em> A través de ella, la empresa crea, administra y distribuye contenido original con el objetivo de atraer a los clientes y posicionarse como un referente en su segmento de mercado. Esta estrategia se integra con una política de comunicación que detalla las actividades específicas para cada canal, tomando en cuenta la información recopilada en el análisis del entorno. Esto permite definir el tipo de contenido que debe ser creado y compartido para satisfacer las necesidades y preferencias del público objetivo, para ello se debe definir:
     
     .row.justify-content-center.align-items-center.mb-4
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
@@ -177,7 +177,7 @@
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.4 Control y seguimiento
 
-    p.mb-5 El establecimiento de indicadores es imprescindible para contar con un control de avance de la implementación del plan de marketing, las métricas que se utilizarán para la comparación de resultados frente a una escala previamente establecida podrán indicar si las técnicas aplicadas permiten consolidar una estrategia efectiva, o si por el contrario, no será posible el cumplimiento de los objetivos de no tomar acciones correctivas para encauzar el plan en una nueva ruta. Un ejemplo de estos indicadores podrá ser:
+    p.mb-5 El establecimiento de indicadores es imprescindible para contar con un control de avance de la implementación del plan de <em>marketing,</em> las métricas que se utilizarán para la comparación de resultados frente a una escala previamente establecida podrán indicar si las técnicas aplicadas permiten consolidar una estrategia efectiva, o si por el contrario, no será posible el cumplimiento de los objetivos de no tomar acciones correctivas para encauzar el plan en una nueva ruta. Un ejemplo de estos indicadores podrá ser:
 
     .BGIMG01.p-5.mb-5
       SlyderA(tipo="b")
@@ -202,7 +202,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 Herramientas para analizar 
-            p Para el desarrollo de un control efectivo, es fundamental contar con herramientas que faciliten el análisis de los resultados obtenidos. <em>Salesforce</em> es un ejemplo de una herramienta utilizada con este propósito, ya que permite realizar un seguimiento detallado de cada una de las actividades implementadas en el plan de <em>marketing.</em> Con <em>Salesforce</em> u otras herramientas similares, es posible evaluar cómo perciben las acciones los clientes y cómo se comportan durante su interacción con el sitio web. Estos datos son esenciales para medir el impacto de las estrategias y ajustarlas en consecuencia para lograr los objetivos deseados.
+            p Para el desarrollo de un control efectivo, es fundamental contar con herramientas que faciliten el análisis de los resultados obtenidos. <em>Salesforce</em> es un ejemplo de una herramienta utilizada con este propósito, ya que permite realizar un seguimiento detallado de cada una de las actividades implementadas en el plan de <em>marketing.</em> Con <em>Salesforce</em> u otras herramientas similares, es posible evaluar cómo perciben las acciones los clientes y cómo se comportan durante su interacción con el sitio <em>web.</em> Estos datos son esenciales para medir el impacto de las estrategias y ajustarlas en consecuencia para lograr los objetivos deseados.
 
           .col-md-6.col-ipad
             figure
@@ -231,15 +231,15 @@
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.5 Presupuesto 
 
-    p.mb-5 La elaboración y presentación del presupuesto en un plan de marketing digital son acciones críticas, ya que la magnitud del proyecto aprobado depende en gran medida de este instrumento y de la disposición de los tomadores de decisiones. Un presupuesto debe incluir un desglose detallado con una explicación clara de cada ítem, junto con su justificación y proyección a lo largo de la duración del plan de marketing. La presentación del presupuesto es esencial, ya que la aprobación dependerá de la forma en que se presente y se cuantifique la importancia de cada elemento estratégico. Además, se debe preparar una presentación final que sea creativa en su comunicación, y contar con herramientas y recursos humanos que transmitan de manera clara todos los aspectos consolidados en el plan, incluyendo posibles variaciones y repercusiones.
+    p.mb-5 La elaboración y presentación del presupuesto en un plan de <em>marketing</em> digital son acciones críticas, ya que la magnitud del proyecto aprobado depende en gran medida de este instrumento y de la disposición de los tomadores de decisiones. Un presupuesto debe incluir un desglose detallado con una explicación clara de cada ítem, junto con su justificación y proyección a lo largo de la duración del plan de <em>marketing.</em> La presentación del presupuesto es esencial, ya que la aprobación dependerá de la forma en que se presente y se cuantifique la importancia de cada elemento estratégico. Además, se debe preparar una presentación final que sea creativa en su comunicación, y contar con herramientas y recursos humanos que transmitan de manera clara todos los aspectos consolidados en el plan, incluyendo posibles variaciones y repercusiones.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10(data-aos="fade-down-right")
         .cajon.color-secundario.p-4(style="background-color:#FFFBE5")
-          p En esta etapa, es importante destacar que el tamaño de la empresa influirá en los recursos que se pueden destinar a la implementación de las estrategias propuestas en el plan de marketing en línea. La tecnología actual permite que incluso las micro, pequeñas y medianas empresas (Mipymes) puedan lograr un mayor alcance e impacto de su marca con un esfuerzo financiero más reducido. Por esta razón, las Mipymes deben considerar la implementación de estos planes, ya que la falta de una hoja de ruta puede tener consecuencias no deseadas para el negocio, como la disminución de los indicadores de captación y fidelización de clientes. La inversión en marketing en línea se ha vuelto esencial para competir en el mercado actual y mantener la relevancia de la marca.
+          p En esta etapa, es importante destacar que el tamaño de la empresa influirá en los recursos que se pueden destinar a la implementación de las estrategias propuestas en el plan de <em>marketing</em> en línea. La tecnología actual permite que incluso las micro, pequeñas y medianas empresas (Mipymes) puedan lograr un mayor alcance e impacto de su marca con un esfuerzo financiero más reducido. Por esta razón, las Mipymes deben considerar la implementación de estos planes, ya que la falta de una hoja de ruta puede tener consecuencias no deseadas para el negocio, como la disminución de los indicadores de captación y fidelización de clientes. La inversión en marketing en línea se ha vuelto esencial para competir en el mercado actual y mantener la relevancia de la marca.
     
-    p Las experiencias exitosas de la incorporación de un plan de marketing correctamente estructurado se cuentan por miles, consolidándose en un documento esencial en el funcionamiento organizacional, que mantiene una evaluación y una realimentación constante. 
-    p.mb-5 A continuación, se exponen experiencias de empresas que desarrollaron un plan de marketing exitoso y que son muy reconocidas a nivel mundial:     
+    p Las experiencias exitosas de la incorporación de un plan de <em>marketing</em> correctamente estructurado se cuentan por miles, consolidándose en un documento esencial en el funcionamiento organizacional, que mantiene una evaluación y una realimentación constante. 
+    p.mb-5 A continuación, se exponen experiencias de empresas que desarrollaron un plan de <em>marketing</em> exitoso y que son muy reconocidas a nivel mundial:     
 
     ImagenInfografica.color-acento-botones.mb-5.desktop
       template(v-slot:imagen)

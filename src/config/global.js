@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Estrategias en marketing online',
+    componenteFormativo: 'Estrategias en <em>marketing online</em>',
     descripcionCurso:
       'El <em>Marketing</em> Digital es fundamental en el desarrollo y crecimiento de las organizaciones, toda vez que permite la consolidación de la información por medio de su tratamiento y el establecimiento de una hoja de ruta que permita aprovechar las herramientas tecnológicas, para el logro de los objetivos trazados y genere más clientes, ventas y utilidades.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -32,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'La campaña de <em>marketing</em> online',
+        titulo: 'La campaña de <em>marketing online</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -51,7 +51,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Plan de <em>marketing</em> online',
+        titulo: 'Plan de <em>marketing online</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -135,24 +135,24 @@ export default {
   },
   complementario: [
     {
-      tema: '1. La campaña de marketing online',
+      tema: '1. La campaña de <em>marketing online</em>',
       referencia:
         'Aprendamos Marketing. (2019). Cómo Calcular el Costo de Adquisición al Cliente | Calcular el CAC y LTV. [Video] YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/y0vBAo0AA1k',
     },
     {
-      tema: '2. Plan de marketing online',
+      tema: '2. Plan de <em>marketing online</em>',
       referencia:
-        'Convierte más con Vilma Núñez (2021). ¿Cómo hacer un plan de marketing? [Video] YouTube. Youtube',
-      tipo: 'VideO',
+        'Convierte más con Vilma Núñez (2021). ¿Cómo hacer un plan de <em>marketing</em>? [Video] YouTube. Youtube',
+      tipo: 'Video',
       link: 'https://youtu.be/4bJh41Rerp8',
     },
     {
-      tema: '3. Inbound',
+      tema: '3. <em>Inbound</em>',
       referencia:
-        'InboundCycle - Marketing y ventas inbound (2018). Inbound marketing: etapas y metodología. [Video] YouTube.',
-      tipo: 'VideO',
+        'InboundCycle - <em>Marketing</em> y ventas <em>inbound</em> (2018). <em>Inbound marketing:</em> etapas y metodología. [Video] YouTube.',
+      tipo: 'Video',
       link: 'https://youtu.be/hQb5_ZCx08U',
     },
   ],
@@ -201,37 +201,38 @@ export default {
         'https://www.triario.co/blog/evolucion-ventas-por-internet-en-colombia',
     },
     {
-      referencia: 'Ancin, J. M. (2016). El Plan de Marketing en la Pyme. ESIC',
+      referencia:
+        'Ancin, J. M. (2016). El Plan de <em>Marketing</em> en la Pyme. ESIC',
       link: '',
     },
     {
       referencia:
-        'Arrieta, G. V. (2017). Marketing digital y su poder en la comunicación. Repositorio Institucional Universidad Santo Tomás.',
+        'Arrieta, G. V. (2017). <em>Marketing</em> digital y su poder en la comunicación. Repositorio Institucional Universidad Santo Tomás.',
       link: '',
     },
     {
       referencia:
-        'Deiss, R.; Henneberry, R. (2020). Digital marketing for dummies. John Wiley & Sons.',
+        'Deiss, R.; Henneberry, R. (2020). <em>Digital marketing for dummies.</em> John Wiley & Sons.',
       link: '',
     },
     {
       referencia:
-        'Estrade, N. J. (2013). Marketing digital. Marketing digital: marketing móvil, SEO y analítica web. Difusora Larousse - Ediciones Pirámide.',
+        'Estrade, N. J. (2013). <em>Marketing</em> digital. <em>Marketing</em> digital: <em>marketing</em> móvil, SEO y analítica web. Difusora Larousse - Ediciones Pirámide.',
       link: '',
     },
     {
       referencia:
-        'Martínez, D. (2012). La elaboración del plan estratégico y su implementación. Análisis de entorno. Diaz Santos. Ortega, M. (2020). Herramientas del marketing digital que permiten desarrollar presencia online, analizar la web, conocer a la audiencia y mejorar los resultados de búsqueda. Revista Perspectivas, (45), 33-6',
+        'Martínez, D. (2012). La elaboración del plan estratégico y su implementación. Análisis de entorno. Diaz Santos. Ortega, M. (2020). Herramientas del <em>marketing</em> digital que permiten desarrollar presencia online, analizar la web, conocer a la audiencia y mejorar los resultados de búsqueda. Revista Perspectivas, (45), 33-6',
       link: '',
     },
     {
       referencia:
-        'Sainz, J. (2018). El plan de marketing digital en la práctica. Esic editorial.',
+        'Sainz, J. (2018). El plan de <em>marketing</em> digital en la práctica. Esic editorial.',
       link: '',
     },
     {
       referencia:
-        'Sanmiguel, P. (2020). Influencer Marketing: Conecta tu marca con tu público. LID Editorial.',
+        'Sanmiguel, P. (2020). Influencer <em>Marketing:</em> Conecta tu marca con tu público. LID Editorial.',
       link: '',
     },
     {
@@ -246,13 +247,13 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          nombre: 'Norma Constanza Morales Cruz',
+          cargo: 'Responsable de Línea de Producción',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -260,9 +261,45 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Andrea Carolina Vargas Serrato',
+          cargo: 'Experto Temático',
+          centro: 'Regional Tolima - Centro de Industria y la Información',
+        },
+        {
+          nombre: 'Adriana López',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Leydy Jhuliana Jaramillo Mejía',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Silvia Milena Sequeda Cárdenas',
+          cargo: 'Asesora Metodológica y Pedagógica',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo de Desarrollo Curricular',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Corrector de Estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Juan Gilberto Giraldo Cortes',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -270,19 +307,39 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Andrés Felipe Herrera Roldán',
           cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Francisco José Vásquez Suárez',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Storyboard e Ilustración',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animador y Productor Audiovisual',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Animador y Productor Audiovisual',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador y Productor Audiovisual',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Francisco José Vásquez Suárez',
+          cargo: 'Actividad Didáctica',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -290,14 +347,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },

@@ -5,18 +5,18 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Inbound
+      h1 <em>Inbound</em>
 
     .row.mb-5
       .col-md-8
-        p El <em>Inbound Marketing</em> es una metodología comercial que combina técnicas de publicidad y marketing digital no intrusivas para atraer clientes potenciales que no están familiarizados con la empresa y sus productos o servicios. Esta metodología busca acompañar a los clientes desde el inicio del proceso de compra hasta la conversión final, facilitando la búsqueda en línea de productos y permitiendo a los clientes conocer la marca, productos y servicios a través de contenido de valor adaptado a sus preguntas, dudas y necesidades.
-        p El <em>Inbound Marketing</em> se puede visualizar como un imán que atrae a los clientes a través de contenido específico. Se aprovecha el uso de software para integrar diversas técnicas y generar contenido valioso que persuade a los clientes para satisfacer sus necesidades con los productos y servicios ofrecidos. Se personaliza cada etapa del camino, desde la primera impresión de la marca hasta la concreción de la transacción final.
+        p El <em>Inbound Marketing</em> es una metodología comercial que combina técnicas de publicidad y <em>marketing</em> digital no intrusivas para atraer clientes potenciales que no están familiarizados con la empresa y sus productos o servicios. Esta metodología busca acompañar a los clientes desde el inicio del proceso de compra hasta la conversión final, facilitando la búsqueda en línea de productos y permitiendo a los clientes conocer la marca, productos y servicios a través de contenido de valor adaptado a sus preguntas, dudas y necesidades.
+        p El <em>Inbound Marketing</em> se puede visualizar como un imán que atrae a los clientes a través de contenido específico. Se aprovecha el uso de <em>software</em> para integrar diversas técnicas y generar contenido valioso que persuade a los clientes para satisfacer sus necesidades con los productos y servicios ofrecidos. Se personaliza cada etapa del camino, desde la primera impresión de la marca hasta la concreción de la transacción final.
 
       .col-md-4
         figure
           img(src='@/assets/curso/temas/tema3/img-1.png', alt='Imagen decorativa')
 
-    p.mb-5.text-center Entre las principales características del Inbound Marketing se encuentran:
+    p.mb-5.text-center Entre las principales características del <em>Inbound Marketing</em> se encuentran:
 
     .row.justify-content-center.align-items-center.mb-3
       .col-10(data-aos="fade-down-right")
@@ -43,7 +43,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema3/img-4.png', alt='Texto que describa la imagen')
               
-            p(style="color:#000") Genera un mayor compromiso (engagement) al construir una relación de confianza con el cliente a través de un acompañamiento constante.
+            p(style="color:#000") Genera un mayor compromiso <em>(engagement)</em> al construir una relación de confianza con el cliente a través de un acompañamiento constante.
 
     p.mb-5 La implementación del <em>Inbound Marketing</em> se divide en cuatro etapas: Atraer, Convertir, Cerrar y Deleitar. En cada una de estas etapas, se definen los estados del ciclo de compra y se emplean acciones específicas para alcanzar los objetivos, como se muestra a continuación:
 
@@ -56,7 +56,7 @@
               
           .col-md-6
             h4 Atraer
-            p Esta etapa está relacionada con el posicionamiento de la empresa en internet y atraer a los clientes para exponer los productos y/o servicios. Genera la optimización de la infraestructura digital de la empresa, buscando un aumento del tráfico hacia la página web y estructurar un plan de contenidos.
+            p Esta etapa está relacionada con el posicionamiento de la empresa en internet y atraer a los clientes para exponer los productos y/o servicios. Genera la optimización de la infraestructura digital de la empresa, buscando un aumento del tráfico hacia la página <em>web</em> y estructurar un plan de contenidos.
 
       .py-3.py-md-4(titulo="Convertir")
         .row
@@ -110,7 +110,7 @@ export default {
       {
         titulo: 'Alcanzar el público correcto',
         texto:
-          'Mediante la creación de contenidos altamente segmentados, la empresa capta clientes acordes a los productos y/o servicios que ofrece. Las organizaciones que involucran marketing de contenidos, cuentan con una tasa de conversión casi 6 veces más alta que aquellas que no lo incorporan.',
+          'Mediante la creación de contenidos altamente segmentados, la empresa capta clientes acordes a los productos y/o servicios que ofrece. Las organizaciones que involucran <em>marketing</em> de contenidos, cuentan con una tasa de conversión casi 6 veces más alta que aquellas que no lo incorporan.',
         icono: require('@/assets/curso/temas/tema3/img-9.png'),
       },
       {
@@ -128,7 +128,7 @@ export default {
       {
         titulo: 'Corto ciclo de ventas',
         texto:
-          'El Inbound reduce el tiempo necesario para lograr el cierre de la transacción de compra, esto gracias los contenidos altamente relevantes y personalizados, que genera una aceleración en los leads al pasar por el embudo de ventas, y así los dispone de manera más temprana, en la fase de elección de compra.',
+          'El <em>Inbound</em> reduce el tiempo necesario para lograr el cierre de la transacción de compra, esto gracias los contenidos altamente relevantes y personalizados, que genera una aceleración en los <em>leads</em> al pasar por el embudo de ventas, y así los dispone de manera más temprana, en la fase de elección de compra.',
         icono: require('@/assets/curso/temas/tema3/img-12.png'),
       },
       {
