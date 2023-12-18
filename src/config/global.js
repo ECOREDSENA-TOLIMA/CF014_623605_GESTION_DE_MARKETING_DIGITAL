@@ -217,12 +217,12 @@ export default {
     },
     {
       referencia:
-        'Estrade, N. J. (2013). <em>Marketing</em> digital. <em>Marketing</em> digital: <em>marketing</em> móvil, SEO y analítica web. Difusora Larousse - Ediciones Pirámide.',
+        'Estrade, N. J. (2013). <em>Marketing</em> digital. <em>Marketing</em> digital: <em>marketing</em> móvil, SEO y analítica <em>web.</em> Difusora Larousse - Ediciones Pirámide.',
       link: '',
     },
     {
       referencia:
-        'Martínez, D. (2012). La elaboración del plan estratégico y su implementación. Análisis de entorno. Diaz Santos. Ortega, M. (2020). Herramientas del <em>marketing</em> digital que permiten desarrollar presencia online, analizar la web, conocer a la audiencia y mejorar los resultados de búsqueda. Revista Perspectivas, (45), 33-6',
+        'Martínez, D. (2012). La elaboración del plan estratégico y su implementación. Análisis de entorno. Diaz Santos. Ortega, M. (2020). Herramientas del <em>marketing</em> digital que permiten desarrollar presencia online, analizar la <em>web,</em> conocer a la audiencia y mejorar los resultados de búsqueda. Revista Perspectivas, (45), 33-6',
       link: '',
     },
     {

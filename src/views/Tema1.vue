@@ -17,7 +17,8 @@
           img(src='@/assets/curso/temas/tema1/img-1.png', alt='Imagen decorativa')
 
     figure.mb-5
-      img(src='@/assets/template/img-placeholder.svg', alt='Texto que describa la imagen')  
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/nEdLPaOAs5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5 El valor de vida de un cliente (CLV), en cambio, se refiere a la cantidad de ingresos que un cliente promedio genera a lo largo de su relación con la empresa. Es un indicador fundamental que ayuda a entender el valor a largo plazo que un cliente aporta a la organización. Incrementar el CLV implica fomentar la retención de clientes, mejorar la calidad de los productos o servicios ofrecidos, y establecer relaciones sólidas con la base de clientes existente. Estrategias como programas de fidelización, atención al cliente de calidad y la personalización de la experiencia del cliente pueden ser eficaces para aumentar el CLV.
 
