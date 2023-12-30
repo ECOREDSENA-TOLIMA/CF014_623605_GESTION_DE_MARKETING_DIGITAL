@@ -44,7 +44,7 @@
 
       .tarjeta.color-primario.p-3(x="73%" y="34%" numero="+")
         .h5.mb-2 Línea de comunicación 
-        p Desarrollar una línea de comunicación que pueda generar un avance en el plan de marketing que se construye.
+        p Desarrollar una línea de comunicación que pueda generar un avance en el plan de <em>marketing</em> que se construye.
 
       .tarjeta.color-primario.p-3(x="38.2%" y="82%" numero="+")
         .h5.mb-2 Tipo de herramientas 
@@ -193,7 +193,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 Consolidar la información
-            p Al consolidar toda esta información, el equipo encargado del desarrollo del plan de <em>marketing</em> dispondrá de los datos necesarios para estimar de manera precisa los costos asociados a la implementación del plan. Esto se traduce en la creación de un presupuesto que refleja los recursos financieros requeridos para llevar a cabo las estrategias y tácticas planificadas. El presupuesto es esencial para la gestión financiera de la estrategia de marketing y asegura que los recursos estén disponibles y se utilicen de manera eficiente en la ejecución del plan.
+            p Al consolidar toda esta información, el equipo encargado del desarrollo del plan de <em>marketing</em> dispondrá de los datos necesarios para estimar de manera precisa los costos asociados a la implementación del plan. Esto se traduce en la creación de un presupuesto que refleja los recursos financieros requeridos para llevar a cabo las estrategias y tácticas planificadas. El presupuesto es esencial para la gestión financiera de la estrategia de <em>marketing</em> y asegura que los recursos estén disponibles y se utilicen de manera eficiente en la ejecución del plan.
 
           .col-md-6.col-ipad
             figure
@@ -236,7 +236,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10(data-aos="fade-down-right")
         .cajon.color-secundario.p-4(style="background-color:#FFFBE5")
-          p En esta etapa, es importante destacar que el tamaño de la empresa influirá en los recursos que se pueden destinar a la implementación de las estrategias propuestas en el plan de <em>marketing</em> en línea. La tecnología actual permite que incluso las micro, pequeñas y medianas empresas (Mipymes) puedan lograr un mayor alcance e impacto de su marca con un esfuerzo financiero más reducido. Por esta razón, las Mipymes deben considerar la implementación de estos planes, ya que la falta de una hoja de ruta puede tener consecuencias no deseadas para el negocio, como la disminución de los indicadores de captación y fidelización de clientes. La inversión en marketing en línea se ha vuelto esencial para competir en el mercado actual y mantener la relevancia de la marca.
+          p En esta etapa, es importante destacar que el tamaño de la empresa influirá en los recursos que se pueden destinar a la implementación de las estrategias propuestas en el plan de <em>marketing</em> en línea. La tecnología actual permite que incluso las micro, pequeñas y medianas empresas (Mipymes) puedan lograr un mayor alcance e impacto de su marca con un esfuerzo financiero más reducido. Por esta razón, las <em>Mipymes</em> deben considerar la implementación de estos planes, ya que la falta de una hoja de ruta puede tener consecuencias no deseadas para el negocio, como la disminución de los indicadores de captación y fidelización de clientes. La inversión en <em>marketing</em> en línea se ha vuelto esencial para competir en el mercado actual y mantener la relevancia de la marca.
     
     p Las experiencias exitosas de la incorporación de un plan de <em>marketing</em> correctamente estructurado se cuentan por miles, consolidándose en un documento esencial en el funcionamiento organizacional, que mantiene una evaluación y una realimentación constante. 
     p.mb-5 A continuación, se exponen experiencias de empresas que desarrollaron un plan de <em>marketing</em> exitoso y que son muy reconocidas a nivel mundial:     

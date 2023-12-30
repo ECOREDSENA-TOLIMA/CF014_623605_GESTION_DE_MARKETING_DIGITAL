@@ -122,7 +122,7 @@ export default {
       {
         titulo: 'Persuasión del cliente',
         texto:
-          'A lo largo del proceso Inbound, el usuario recibe puntualmente el tipo de contenido que necesita, mediante un argumento basado en informaciones sólidas, lo que genera una mayor disposición de su tiempo para lograr un convencimiento y continuar su investigación previa a la adquisición del producto. ',
+          'A lo largo del proceso <em>Inbound,</em> el usuario recibe puntualmente el tipo de contenido que necesita, mediante un argumento basado en informaciones sólidas, lo que genera una mayor disposición de su tiempo para lograr un convencimiento y continuar su investigación previa a la adquisición del producto. ',
         icono: require('@/assets/curso/temas/tema3/img-11.png'),
       },
       {

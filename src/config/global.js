@@ -137,7 +137,7 @@ export default {
     {
       tema: '1. La campaña de <em>marketing online</em>',
       referencia:
-        'Aprendamos Marketing. (2019). Cómo Calcular el Costo de Adquisición al Cliente | Calcular el CAC y LTV. [Video] YouTube.',
+        'Aprendamos <em>Marketing.</em> (2019). Cómo Calcular el Costo de Adquisición al Cliente | Calcular el CAC y LTV. [Video] YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/y0vBAo0AA1k',
     },

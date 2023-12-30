@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 El componente formativo de Estrategias en <em>marketing</em> online, abarca aspectos relacionados con la planificación y ejecución de campañas de <em>marketing</em> en línea, la elaboración de planes de <em>marketing</em> y la aplicación de enfoques <em>Inbound</em> para atraer y retener clientes. Estas áreas de estudio son fundamentales para promover productos y servicios de manera efectiva en el entorno digital y construir relaciones sólidas con el público objetivo.
+    p.mb-5 El componente formativo de Estrategias en <em>marketing online,</em> abarca aspectos relacionados con la planificación y ejecución de campañas de <em>marketing</em> en línea, la elaboración de planes de <em>marketing</em> y la aplicación de enfoques <em>Inbound</em> para atraer y retener clientes. Estas áreas de estudio son fundamentales para promover productos y servicios de manera efectiva en el entorno digital y construir relaciones sólidas con el público objetivo.
 
     .row.justify-content-center
       .col-lg-10.mb-5

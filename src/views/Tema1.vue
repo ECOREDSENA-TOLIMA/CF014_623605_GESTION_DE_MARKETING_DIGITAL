@@ -10,7 +10,7 @@
     .row.mb-4
       .col-md-8
         p Para presentar la campaña de <em>marketing,</em> se reconocen tres elementos importantes: el Coste de Adquisición de un Cliente (CAC), el valor de vida de un cliente (CLV) y la tasa de conversión. Cada uno de estos elementos desempeña un papel crucial en el <em>marketing</em> digital y contribuye a mejorar la calidad del servicio a los clientes en cada una de las empresas.
-        p El coste de adquisición de un cliente (CAC), representado por sus siglas, es un indicador que mide la cantidad de recursos invertidos por la organización para incorporar un cliente nuevo a su base de clientes. Este valor se calcula tomando en cuenta la inversión media realizada por la empresa en un período de tiempo determinado para adquirir un nuevo cliente. Reducir el CAC es esencial para optimizar la eficiencia de la campaña de <em>marketing,</em> ya que significa que la empresa está gastando menos para adquirir nuevos clientes. Esto puede lograrse a través de estrategias más efectivas, como publicidad segmentada, marketing de contenidos de alta calidad o campañas de referencia. Este indicador permite calcular la cantidad media apostada por la empresa para lograr esta adquisición en un factor de tiempo determinado, como se muestra a continuación:
+        p El coste de adquisición de un cliente (CAC), representado por sus siglas, es un indicador que mide la cantidad de recursos invertidos por la organización para incorporar un cliente nuevo a su base de clientes. Este valor se calcula tomando en cuenta la inversión media realizada por la empresa en un período de tiempo determinado para adquirir un nuevo cliente. Reducir el CAC es esencial para optimizar la eficiencia de la campaña de <em>marketing,</em> ya que significa que la empresa está gastando menos para adquirir nuevos clientes. Esto puede lograrse a través de estrategias más efectivas, como publicidad segmentada, <em>marketing</em> de contenidos de alta calidad o campañas de referencia. Este indicador permite calcular la cantidad media apostada por la empresa para lograr esta adquisición en un factor de tiempo determinado, como se muestra a continuación:
 
       .col-md-4
         figure
@@ -25,7 +25,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="fade-down-right")
         .cajon.color-secundario.p-4(style="background-color:#FFFBE5")
-          p El valor de vida de un cliente (CLV), en cambio, se refiere a la cantidad de ingresos que un cliente promedio genera a lo largo de su relación con la empresa. Es un indicador fundamental que ayuda a entender el valor a largo plazo que un cliente aporta a la organización. Incrementar el CLV implica fomentar la retención de clientes, mejorar la calidad de los productos o servicios ofrecidos, y establecer relaciones sólidas con la base de clientes existente. Estrategias como programas de fidelización, atención al cliente de calidad y la personalización de la experiencia del cliente pueden ser eficaces para aumentar el CLV.
+          p Por último, la tasa de conversión es un elemento clave que mide la eficacia de la campaña de <em>marketing</em> en la conversión de visitantes o prospectos en clientes reales. Una tasa de conversión más alta indica que la campaña está funcionando de manera más efectiva. Para mejorar la tasa de conversión, las empresas pueden utilizar técnicas como la optimización de la página de destino, el análisis de datos para comprender el comportamiento del usuario y la implementación de estrategias de persuasión, como testimonios de clientes satisfecho
 
     p.mb-5 A continuación, se desarrolla un ejemplo práctico del cálculo del CAC mensual para una empresa de venta de productos de consumo:
 
@@ -57,6 +57,11 @@
                 td.text-center $1.500.000
                 td.text-center 4
                 td.text-center $6.000.000
+              tr
+                td(colspan="2") <strong>Publicidad de pago clic</strong>
+                td.text-center $100
+                td.text-center 50.000
+                td.text-center $5.000.000
               tr
                 td(colspan="4") <strong>Suma de las inversiones para adquirir clientes</strong>
                 td.text-center $26.000.000
@@ -206,7 +211,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2. La tasa de conversión
 
-    p La tasa de conversión, también conocida como CR (Conversion Rate) en inglés, se define como una métrica que permite medir resultados. Representa el porcentaje de usuarios o clientes que llevan a cabo una acción específica en un período de tiempo determinado.
+    p La tasa de conversión, también conocida como CR <em>(Conversion Rate)</em> en inglés, se define como una métrica que permite medir resultados. Representa el porcentaje de usuarios o clientes que llevan a cabo una acción específica en un período de tiempo determinado.
     p.mb-5 Estas acciones son definidas por la organización según sus necesidades de evaluación, como compras, descargas, completar cuestionarios, registros, reservas, entre otras, relacionadas con sus productos o servicios. Es esencial tener en cuenta el objetivo principal, los resultados y la empresa, como se describe a continuación: 
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -228,7 +233,7 @@
 
       .row(titulo="Empresa")
         .col-md-6.mb-4.mb-md-0
-          p La empresa, que no conlleva el ejercicio de realizar evaluaciones frecuentes a sus procesos no logra los mejores resultados, toda vez que no permite avanzar en las actividades que no se encuentran en su nivel óptimo. Además, no se logran identificar a tiempo y llegan a generar pérdidas, por sus procesos actuales o aquellos que no permiten la captación de nuevos clientes.
+          p La empresa que no conlleva el ejercicio de realizar evaluaciones frecuentes a sus procesos, no logra los mejores resultados, toda vez que no permite avanzar en las actividades que no se encuentran en su nivel óptimo. Además, no se logran identificar a tiempo y llegan a generar pérdidas, por sus procesos actuales o aquellos que no permiten la captación de nuevos clientes.
 
         .col-md-6
           figure
@@ -248,7 +253,7 @@
           p A continuación, se muestra cómo se aplica esta fórmula:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-8(data-aos="fade-down-right")
+      .col-10(data-aos="fade-down-right")
         .cajon.color-primario.p-4
           .row.justify-content-center.align-items-center
             .col-lg-8
@@ -324,7 +329,7 @@
                       mi.italic1 <strong>)</strong>X<sub></sub> 100&nbsp;
                 td.text-center 16,66 %
               tr
-                td(colspan="2") <strong>Clic en campaña de nuevo producto</strong>
+                td(colspan="2") <strong><em>Clic</em> en campaña de nuevo producto</strong>
                 td.text-center 320
                 td.text-center 1500
                 td.text-center
